@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MOB403_ASM</string>
+    <string name="pref_file_key" />
+    <string name="pref_is_user_login" />
+    <string name="pref_name_of_user" />
+</resources>

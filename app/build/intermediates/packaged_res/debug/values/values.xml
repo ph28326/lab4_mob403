@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MOB403_ASM</string>
+    <string name="pref_file_key"/>
+    <string name="pref_is_user_login"/>
+    <string name="pref_name_of_user"/>
+    <style name="Base.Theme.MOB403_ASM" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MOB403_ASM" parent="Base.Theme.MOB403_ASM"/>
+</resources>
